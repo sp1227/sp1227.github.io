@@ -1,0 +1,15 @@
+title: sp1227
+email: sakuya7638@gmail.com
+description: >-
+  안녕하세요! 개발을 좋아하는 개발자입니다.
+baseurl: ""
+url: "https://sp1227.github.io"
+github_username: sp1227
+
+theme: minima
+
+minima:
+  skin: dark
+
+plugins:
+  - jekyll-feed
